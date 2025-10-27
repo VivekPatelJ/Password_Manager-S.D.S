@@ -73,7 +73,8 @@ class _AboutScreenState extends State<AboutScreen> {
                 child: Padding(
                     padding: const EdgeInsets.fromLTRB(10.0, 17.0, 10.0, 0.0),
                     child: Text(
-                      'Created By Imira.',
+                      'Created By Vivek
+                      .',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 23.0,
