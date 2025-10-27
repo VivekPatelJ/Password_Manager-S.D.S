@@ -15,7 +15,7 @@ Prerequisites:
 - Get the code,
 ```js
 
-git clone https://github.com/Imira-S-R/PasswordManager
+git clone https://github.com/VivekPatelJ/Password_Manager-S.D.S
 
 ```
 - Run the project
